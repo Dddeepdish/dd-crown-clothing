@@ -11,6 +11,7 @@ import {
     getDoc,
     setDoc
 } from 'firebase/firestore'
+
 const firebaseConfig = {
     apiKey: "AIzaSyA2exRSIUPdvfQcEgP_MTDDD5jQqPlRxwY",
     authDomain: "dd-crown-clothing.firebaseapp.com",
